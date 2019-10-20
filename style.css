@@ -1,0 +1,18 @@
+div.header{
+	text-align:center;
+}
+span{
+	border-bottom: 1px solid black;
+}
+img.image1{
+	padding-right: 15px;
+	float:left;
+}
+
+div.photo1{
+	min-height: 290px;
+}
+img.image2{
+	display: block;
+    margin:auto;
+}
